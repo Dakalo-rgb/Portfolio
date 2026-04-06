@@ -14,8 +14,8 @@ A modern, responsive personal portfolio website showcasing my journey as a Compu
 
 ## Technologies Used
 - HTML5
-- CSS3 (Flexbox, Grid, Animations)
-- JavaScript (Vanilla)
+- CSS3 
+- JavaScript 
 
 ## Pages
 - Home
